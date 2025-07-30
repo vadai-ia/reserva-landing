@@ -116,7 +116,7 @@ export default function Home() {
           fontSize: 19,
         }}>i</span>
         <span>
-           continuación puedes encontrar toda la información de la reserva. <b>Asegúrate de leer bien</b> y cualquier duda estamos para servirte a través del mensaje que te llegará vía WhatsApp.
+          A continuación puedes encontrar toda la información de la reserva. <b>Asegúrate de leer bien</b> y cualquier duda estamos para servirte a través del mensaje que te llegará vía WhatsApp.
         </span>
       </div>
 
