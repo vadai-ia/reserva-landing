@@ -13,6 +13,9 @@ export default function Home() {
     clave_acceso = "",
     link_airbnb = "",
     video_youtube = "",
+    video_clave = "",
+    video_dron = "",
+    foto_estacionamiento = "",
   } = router.query;
 
   // Teléfono de soporte WhatsApp real
