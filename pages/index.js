@@ -61,16 +61,16 @@ export default function Home() {
         marginBottom: 12
       }}>
         <h1 style={{
-          text-align: center;
-    font-weight: 700;
-    font-size: 2.3rem;
-    color: #13427A;
-    letter-spacing: -1.5px;
+          fontWeight: 900,
+          fontSize: '2.3rem',
+          color: '#fff',
+          letterSpacing: '-1.5px',
           margin: 0,
           textShadow: '0 4px 12px #182C4940'
         }}>
-          <span style={{ color: '#4d7dfd' }}></span>Bienvenid@ a la Experiencia <span style={{ color: '#13427A' }}>H-Living!</span>
+          <span style={{ color: '#4d7dfd' }}>@</span>Bienvenido a la Experiencia <span style={{ color: '#4d7dfd' }}>HIDEKEL</span>
         </h1>
+
         {/* Botón WhatsApp */}
         <a href={whatsappHref} target="_blank" rel="noopener noreferrer"
           style={{
