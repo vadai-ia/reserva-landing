@@ -64,12 +64,12 @@ export default function Home() {
           fontWeight: 900,
           textAlign: 'center',
           fontSize: '2.3rem',
-          color: '#fff',
+          color: '#13427A',
           letterSpacing: '-1.5px',
           margin: 0,
           textShadow: '0 4px 12px #182C4940'
         }}>
-          <span style={{ color: '#4d7dfd' }}>@</span>Bienvenido a la Experiencia <span style={{ color: '#4d7dfd' }}>HIDEKEL</span>
+          <span></span>Bienvenid@ a la Experiencia <span style={{ color: '#4d7dfd' }}>H-Living!</span>
         </h1>
 
         {/* Botón WhatsApp */}
