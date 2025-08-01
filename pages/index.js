@@ -69,7 +69,7 @@ export default function Home() {
           margin: 0,
           textShadow: '0 4px 12px #182C4940'
         }}>
-          <span style={{ color: '#4d7dfd' }}></span>ienvenid@ a la Experiencia <span style={{ color: '#13427A' }}>H-Living!</span>
+          <span style={{ color: '#4d7dfd' }}></span>Bienvenid@ a la Experiencia <span style={{ color: '#13427A' }}>H-Living!</span>
         </h1>
         {/* Botón WhatsApp */}
         <a href={whatsappHref} target="_blank" rel="noopener noreferrer"
