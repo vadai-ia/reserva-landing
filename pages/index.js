@@ -69,7 +69,7 @@ export default function Home() {
           margin: 0,
           textShadow: '0 4px 12px #182C4940'
         }}>
-          <span></span>Bienvenid@ a la Experiencia H-Living!</span>
+          Bienvenid@ a la Experiencia H-Living!
         </h1>
 
         {/* Botón WhatsApp */}
