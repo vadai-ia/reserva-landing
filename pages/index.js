@@ -43,8 +43,8 @@ export default function Home() {
 
   return (
     <div style={{
-      minHeight: '100vh',
-      background: '#fff',
+       minHeight: '100vh',
+      background: 'linear-gradient(135deg, #16213e 60%, #274382 90%, #4d7dfd 100%)',
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
