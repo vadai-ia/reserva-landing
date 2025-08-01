@@ -44,7 +44,7 @@ export default function Home() {
   return (
     <div style={{
       minHeight: '100vh',
-      background: '',
+      background: '#fff',
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
