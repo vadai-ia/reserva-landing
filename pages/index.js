@@ -61,10 +61,11 @@ export default function Home() {
         marginBottom: 12
       }}>
         <h1 style={{
-          fontWeight: 900,
-          fontSize: '2.3rem',
-          color: '#fff',
-          letterSpacing: '-1.5px',
+          text-align: center;
+    font-weight: 700;
+    font-size: 2.3rem;
+    color: #13427A;
+    letter-spacing: -1.5px;
           margin: 0,
           textShadow: '0 4px 12px #182C4940'
         }}>
