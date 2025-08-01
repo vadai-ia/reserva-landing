@@ -61,13 +61,12 @@ export default function Home() {
         marginBottom: 12
       }}>
         <h1 style={{
-          fontWeight: 900,
+          fontWeight: 700,
           textAlign: 'center',
           fontSize: '2.3rem',
           color: '#13427A',
           letterSpacing: '-1.5px',
-          margin: 0,
-          textShadow: '0 4px 12px #182C4940'
+          margin: 0
         }}>
           Bienvenid@ a la Experiencia H-Living!
         </h1>
