@@ -62,7 +62,6 @@ export default function Home() {
       }}>
         <h1 style={{
           fontWeight: 900,
-          text-align: center,
           fontSize: '2.3rem',
           color: '#fff',
           letterSpacing: '-1.5px',
