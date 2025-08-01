@@ -44,7 +44,7 @@ export default function Home() {
   return (
     <div style={{
       minHeight: '100vh',
-      background: 'linear-gradient(135deg, #16213e 60%, #274382 90%, #4d7dfd 100%)',
+      background: 'white',
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
@@ -69,7 +69,7 @@ export default function Home() {
           margin: 0,
           textShadow: '0 4px 12px #182C4940'
         }}>
-          <span></span>Bienvenid@ a la Experiencia <span style={{ color: '#4d7dfd' }}>H-Living!</span>
+          <span></span>Bienvenid@ a la Experiencia <br>H-Living!</span>
         </h1>
 
         {/* Botón WhatsApp */}
