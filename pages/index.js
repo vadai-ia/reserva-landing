@@ -68,7 +68,8 @@ export default function Home() {
           letterSpacing: '-1.5px',
           margin: 0
         }}>
-          Bienvenid@ a la Experiencia H-Living!
+          Bienvenid@ a la Experiencia <br>
+            H-Living!
         </h1>
 
         {/* Botón WhatsApp */}
