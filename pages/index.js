@@ -69,6 +69,7 @@ export default function Home() {
           margin: 0
         }}>
           Bienvenid@ a la Experiencia 
+           <br /> 
             H-Living!
         </h1>
 
