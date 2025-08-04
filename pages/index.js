@@ -96,13 +96,13 @@ export default function Home() {
 
       {/* TEXTO EXPLICATIVO */}
       <div style={{
-        background: 'rgba(196,236,255,0.93)',
         borderRadius: 16,
         padding: '1.1rem 1.2rem',
         margin: '0 0 24px 0',
         maxWidth: 500,
         width: '90%',
-        color: '#16213e',
+        color: '#13427A',
+        textAlign: 'center',
         fontWeight: 500,
         boxShadow: '0 2px 16px #27438220',
         fontSize: 16,
