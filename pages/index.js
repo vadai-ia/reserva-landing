@@ -110,17 +110,7 @@ export default function Home() {
         alignItems: 'center',
         gap: 10,
       }}>
-        <span style={{
-          background: '#4d7dfd',
-          color: '#fff',
-          borderRadius: '50%',
-          display: 'inline-flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          width: 30, height: 30,
-          fontWeight: 'bold',
-          fontSize: 19,
-        }}>i</span>
+        
         <span>
           A continuación puedes encontrar toda la información de la reserva. <b>Asegúrate de leer bien</b> y cualquier duda estamos para servirte a través del mensaje que te llegará vía WhatsApp.
         </span>
