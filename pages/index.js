@@ -68,7 +68,7 @@ export default function Home() {
           letterSpacing: '-1.5px',
           margin: 0
         }}>
-          Bienvend@ a la Experiencia 
+          Bienvenid@ a la Experiencia 
            <br /> 
             H-Living!
         </h1>
