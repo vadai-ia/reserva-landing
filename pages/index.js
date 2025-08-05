@@ -417,7 +417,7 @@ Video como llegar a la Colonia
        Envianos un mensaje
         </a>
         </div>
-      <div style={{margin: '24px 0 16px', width: 300px, opacity: 0.21, fontSize: 13, textAlign: 'center'}}>Powered by N8N + Next.js + IA</div>
+      <div style={{margin: '24px 0 16px', width: '300px', opacity: 0.21, fontSize: 13, textAlign: 'center'}}>Powered by N8N + Next.js + IA</div>
     </div>
   );
 }
