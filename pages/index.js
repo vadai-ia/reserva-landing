@@ -393,7 +393,7 @@ Video como llegar a la Colonia
             <a href={whatsappHref} target="_blank" rel="noopener noreferrer"
           style={{
             flex: 1,
-            background: '#13427A',
+            background: '#06B822',
             color: '#fff',
             padding: '0.85rem',
             borderRadius: 21,
@@ -409,9 +409,9 @@ Video como llegar a la Colonia
             minWidth: 180,
             transition: 'background 0.15s',
           }}>
-        <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f3c431507ca93906d.png" alt="icono" width="19" height="19"
+        <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f275c41eda25425f0.png" alt="icono" width="19" height="19"
         style={{ marginRight: 2 }}/>
-        Ubicación Google maps
+       Envianos un mensaje
         </a>
         </div>
       <div style={{margin: '24px 0 16px', opacity: 0.21, fontSize: 13, textAlign: 'center'}}>Powered by N8N + Next.js + IA</div>
