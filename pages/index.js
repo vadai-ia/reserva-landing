@@ -376,7 +376,61 @@ Video como llegar a la Colonia
           </a>
         }
       </div>
-       
+       {/* whatsapp */}
+<div style={{
+  background: '#F8F8F8',
+  borderRadius: 18,
+  padding: '1.3rem 1.2rem',
+  color: '#13427A',
+  maxWidth: 640,
+  width: '95%',
+  marginBottom: 24,
+  fontSize: 17,
+}}>
+  <div style={{
+    fontWeight: 700,
+    fontSize: 32,
+    marginBottom: 14,
+    letterSpacing: '-0.5px',
+    textAlign: 'center'
+  }}>
+    ¿Necesitas ayuda?
+  </div>
+
+  <a
+    href={whatsappHref}
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{
+      flex: 1,
+      color: '#fff',
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      justifyContent: 'center',
+      padding: '0.85rem',
+      borderRadius: 21,
+      fontWeight: 600,
+      textAlign: 'center',
+      textDecoration: 'none',
+      fontSize: 17,
+      gap: 7,
+      boxShadow: '0 2px 8px #4d7dfd22',
+      minWidth: 180,
+      transition: 'background 0.15s',
+    }}
+  >
+    <img
+      src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f275c41eda25425f0.png"
+      alt="icono"
+      width="19"
+      height="19"
+      style={{ marginRight: 2 }}
+    />
+    Envíanos un mensaje
+  </a>
+</div>
+
        
       <div style={{margin: '24px 0 16px', width: '300px', opacity: 0.21, fontSize: 13, textAlign: 'center'}}>Powered by N8N + Next.js + IA</div>
     </div>
