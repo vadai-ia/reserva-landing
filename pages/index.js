@@ -234,7 +234,8 @@ export default function Home() {
             transition: 'background 0.15s',
           }}>
  <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f600bc5ccf565f854.png" alt="icono" width="19" height="19"
-          Video como llegar a la Colonia
+       style={{ marginRight: 2 }}/>  
+Video como llegar a la Colonia
         </a>
       </div>
 
