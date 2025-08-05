@@ -290,7 +290,7 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ffbf6933',
               transition: 'background 0.15s'
             }}>
-            🏡 Ver Airbnb
+            🏡 Ver lugar de estacionamiento
           </a>
         }
 {link_airbnb &&
@@ -309,28 +309,10 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ffbf6933',
               transition: 'background 0.15s'
             }}>
-            🏡 Ver Airbnb
+            🏡 Video como abrir Masterlock
           </a>
         }
-{link_airbnb &&
-          <a href={link_airbnb} target="_blank" rel="noopener noreferrer"
-            style={{
-              flex: 1,
-              minWidth: 180,
-              background: '#ffbf69',
-              color: '#2b2b2b',
-              padding: '0.75rem',
-              borderRadius: 12,
-              fontWeight: 800,
-              textAlign: 'center',
-              textDecoration: 'none',
-              fontSize: 16,
-              boxShadow: '0 2px 8px #ffbf6933',
-              transition: 'background 0.15s'
-            }}>
-            🏡 Ver Airbnb
-          </a>
-        }
+
         {video_youtube &&
           <a href={video_youtube} target="_blank" rel="noopener noreferrer"
             style={{
@@ -347,7 +329,26 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ff757533',
               transition: 'background 0.15s'
             }}>
-            ▶️ Ver video de llegada
+            ▶️ Video tour de tu apartamento
+          </a>
+        }
+{video_youtube &&
+          <a href={video_youtube} target="_blank" rel="noopener noreferrer"
+            style={{
+              flex: 1,
+              minWidth: 180,
+              background: '#ff7575',
+              color: '#fff',
+              padding: '0.75rem',
+              borderRadius: 12,
+              fontWeight: 800,
+              textAlign: 'center',
+              textDecoration: 'none',
+              fontSize: 16,
+              boxShadow: '0 2px 8px #ff757533',
+              transition: 'background 0.15s'
+            }}>
+            ▶️ Link airbnb de tu apartamento
           </a>
         }
       </div>
