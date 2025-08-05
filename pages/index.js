@@ -278,7 +278,7 @@ Video como llegar a la Colonia
           <a href={foto_estacionamiento} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
-              minWidth: 180,
+              minWidth: 230,
               background: '#13427A',
               color: '#FFFFFF',
               display: 'flex',
@@ -303,7 +303,7 @@ Video como llegar a la Colonia
           <a href={video_clave} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
-              minWidth: 180,
+              minWidth: 230,
               background: '#13427A',
               color: '#FFFFFF',
               display: 'flex',
@@ -329,7 +329,7 @@ Video como llegar a la Colonia
           <a href={video_youtube} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
-              minWidth: 180,
+              minWidth: 230,
               background: '#13427A',
               color: '#FFFFFF',
               display: 'flex',
@@ -354,7 +354,7 @@ Video como llegar a la Colonia
           <a href={ link_airbnb} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
-              minWidth: 180,
+              minWidth: 230,
               background: '#13427A',
               color: '#FFFFFF',
               display: 'flex',
