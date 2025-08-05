@@ -397,7 +397,7 @@ Video como llegar a la Colonia
             display: flex,
             flexDirection: 'column',
             alignItems: 'center',
-            justifyContent: 'center'
+            justifyContent: 'center',
             padding: '0.85rem',
             borderRadius: 21,
             fontWeight: 600,
