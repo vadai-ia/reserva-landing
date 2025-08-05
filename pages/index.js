@@ -141,7 +141,7 @@ export default function Home() {
           transition: 'box-shadow 0.2s',
         }}>
           <div style={{ fontSize: 13, color: '#4d7dfd', fontWeight: 600 }}>Código de Reserva</div>
-          <div style={{ fontSize: 19,color: '#4d7dfd' fontWeight: 800, marginTop: 6, wordBreak: 'break-word', lineHeight: '1.18' }}>{codigo_reserva || 'N/A'}</div>
+          <div style={{ fontSize: 19, color: '#4d7dfd', fontWeight: 800, marginTop: 6, wordBreak: 'break-word', lineHeight: '1.18' }}>{codigo_reserva || 'N/A'}</div>
         </div>
         <div style={{
           background: '#F8F8F8',
@@ -159,7 +159,7 @@ export default function Home() {
           transition: 'box-shadow 0.2s',
         }}>
           <div style={{ fontSize: 13, color: '#4d7dfd', fontWeight: 600 }}>Departamento</div>
-          <div style={{ fontSize: 19,color: '#4d7dfd' fontWeight: 800, marginTop: 6 }}>{numero_departamento}</div>
+          <div style={{ fontSize: 19, color: '#4d7dfd', fontWeight: 800, marginTop: 6 }}>{numero_departamento}</div>
         </div>
         <div style={{
           background: '#F8F8F8',
@@ -177,7 +177,7 @@ export default function Home() {
           transition: 'box-shadow 0.2s',
         }}>
           <div style={{ fontSize: 13, color: '#4d7dfd', fontWeight: 600 }}>Colonia</div>
-          <div style={{ fontSize: 18,color: '#4d7dfd' fontWeight: 800, marginTop: 6, wordBreak: 'break-word' }}>{colonia}</div>
+          <div style={{ fontSize: 18, color: '#4d7dfd', fontWeight: 800, marginTop: 6, wordBreak: 'break-word' }}>{colonia}</div>
         </div>
       </div>
 
