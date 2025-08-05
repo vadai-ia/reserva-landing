@@ -378,7 +378,7 @@ Video como llegar a la Colonia
       </div>
        {/* whatsapp */}
 <div style={{
-  background: '#F8F8F8',
+
   borderRadius: 18,
   padding: '1.3rem 1.2rem',
   color: '#13427A',
@@ -402,10 +402,11 @@ Video como llegar a la Colonia
     target="_blank"
     rel="noopener noreferrer"
     style={{
+        background: '#06B822',
       flex: 1,
       color: '#fff',
       display: 'flex',
-      flexDirection: 'column',
+      flexDirection: 'row',
       alignItems: 'center',
       justifyContent: 'center',
       padding: '0.85rem',
