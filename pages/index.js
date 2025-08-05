@@ -294,7 +294,7 @@ Video como llegar a la Colonia
           </a>
         }
 {link_airbnb &&
-          <a href={link_airbnb} target="_blank" rel="noopener noreferrer"
+          <a href={video_youtube} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
               minWidth: 180,
