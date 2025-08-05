@@ -246,7 +246,7 @@ Video como llegar a la Colonia
         boxShadow: '0 4px 20px #182c4944',
         padding: '1.3rem 1.2rem 1.3rem 1.2rem',
         color: '#fff',
-        maxWidth: 540,
+        maxWidth: 640,
         width: '95%',
         marginBottom: 24,
         fontSize: 17,
@@ -271,7 +271,7 @@ Video como llegar a la Colonia
       {/* ACCESOS EXTRA */}
       <div style={{
         width: '95%',
-        maxWidth: 540,
+        maxWidth: 640,
         display: 'flex',
         gap: 16,
         marginBottom: 24,
