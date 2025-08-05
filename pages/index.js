@@ -274,7 +274,7 @@ Video como llegar a la Colonia
         justifyContent: 'center',
         flexWrap: 'wrap'
       }}>
-        {link_airbnb &&
+        {foto_estacionamiento &&
           <a href={foto_estacionamiento} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
@@ -290,10 +290,12 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ffbf6933',
               transition: 'background 0.15s'
             }}>
-            🏡 Ver lugar de estacionamiento
+            <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f600bc5ccf565f854.png" alt="icono" width="19" height="19"
+       style={{ marginRight: 2 }}/>  
+  Ver lugar de estacionamiento
           </a>
         }
-{link_airbnb &&
+{video_clave &&
           <a href={video_clave} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
@@ -332,7 +334,7 @@ Video como llegar a la Colonia
             ▶️ Video tour de tu apartamento
           </a>
         }
-{video_youtube &&
+{link_airbnb &&
           <a href={ link_airbnb} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
