@@ -243,7 +243,6 @@ Video como llegar a la Colonia
       <div style={{
         background: '#F8F8F8',
         borderRadius: 18,
-        boxShadow: '0 4px 20px #182c4944',
         padding: '1.3rem 1.2rem 1.3rem 1.2rem',
         color: '#13427A',
         maxWidth: 640,
@@ -251,7 +250,7 @@ Video como llegar a la Colonia
         marginBottom: 24,
         fontSize: 17,
       }}>
-        <div style={{fontWeight: 700, fontSize: 22, marginBottom: 14, letterSpacing: '-0.5px', textAlign: 'center'}}>
+        <div style={{fontWeight: 600, fontSize: 32, marginBottom: 14, letterSpacing: '-0.5px', textAlign: 'center'}}>
           Información importante
         </div>
         <div style={{display: 'flex', alignItems: 'center', gap: 9, marginBottom: 8}}>
@@ -276,6 +275,44 @@ Video como llegar a la Colonia
         flexWrap: 'wrap'
       }}>
         {link_airbnb &&
+          <a href={link_airbnb} target="_blank" rel="noopener noreferrer"
+            style={{
+              flex: 1,
+              minWidth: 180,
+              background: '#ffbf69',
+              color: '#2b2b2b',
+              padding: '0.75rem',
+              borderRadius: 12,
+              fontWeight: 800,
+              textAlign: 'center',
+              textDecoration: 'none',
+              fontSize: 16,
+              boxShadow: '0 2px 8px #ffbf6933',
+              transition: 'background 0.15s'
+            }}>
+            🏡 Ver Airbnb
+          </a>
+        }
+{link_airbnb &&
+          <a href={link_airbnb} target="_blank" rel="noopener noreferrer"
+            style={{
+              flex: 1,
+              minWidth: 180,
+              background: '#ffbf69',
+              color: '#2b2b2b',
+              padding: '0.75rem',
+              borderRadius: 12,
+              fontWeight: 800,
+              textAlign: 'center',
+              textDecoration: 'none',
+              fontSize: 16,
+              boxShadow: '0 2px 8px #ffbf6933',
+              transition: 'background 0.15s'
+            }}>
+            🏡 Ver Airbnb
+          </a>
+        }
+{link_airbnb &&
           <a href={link_airbnb} target="_blank" rel="noopener noreferrer"
             style={{
               flex: 1,
