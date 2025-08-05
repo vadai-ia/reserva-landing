@@ -376,17 +376,7 @@ Video como llegar a la Colonia
           </a>
         }
       </div>
-        {/* INFORMACIÓN IMPORTANTE */}
-      <div style={{
-        background: '#F8F8F8',
-        borderRadius: 18,
-        padding: '1.3rem 1.2rem 1.3rem 1.2rem',
-        color: '#13427A',
-        maxWidth: 640,
-        width: '95%',
-        marginBottom: 24,
-        fontSize: 17,
-      }}>
+       
        
       <div style={{margin: '24px 0 16px', width: '300px', opacity: 0.21, fontSize: 13, textAlign: 'center'}}>Powered by N8N + Next.js + IA</div>
     </div>
