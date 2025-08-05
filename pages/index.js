@@ -210,8 +210,9 @@ export default function Home() {
             minWidth: 180,
             transition: 'background 0.15s',
           }}>
-          <svg width="19" height="19" fill="#fff" style={{marginRight: 2}} viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 6.36 12.36 6.64 12.65.37.37.97.37 1.34 0C12.64 21.36 19 14.25 19 9c0-3.87-3.13-7-7-7zm0 17.6C10.2 17.18 7 12.89 7 9a5 5 0 0110 0c0 3.89-3.2 8.18-5 10.6zm0-13.1a3.1 3.1 0 100 6.2 3.1 3.1 0 000-6.2zm0 4.2a1.1 1.1 0 110-2.2 1.1 1.1 0 010 2.2z"/></svg>
-         Ubicación Google maps
+        <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f600bc5ccf565f854.png" alt="icono" width="19" height="19"
+        style={{ marginRight: 2 }}/>
+        Ubicación Google maps
         </a>
         <a href={video_dron} target="_blank" rel="noopener noreferrer"
           style={{
