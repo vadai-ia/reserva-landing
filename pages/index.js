@@ -281,6 +281,10 @@ Video como llegar a la Colonia
               minWidth: 180,
               background: '#13427A',
               color: '#FFFFFF',
+              display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            gap: 7,
               padding: '0.75rem',
               borderRadius: 12,
               fontWeight: 600,
@@ -290,7 +294,7 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ffbf6933',
               transition: 'background 0.15s'
             }}>
-            <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f600bc5ccf565f854.png" alt="icono" width="19" height="19"
+            <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e660746eb813385f4974.png" alt="icono" width="19" height="19"
        style={{ marginRight: 2 }}/>  
   Ver lugar de estacionamiento
           </a>
@@ -302,6 +306,10 @@ Video como llegar a la Colonia
               minWidth: 180,
               background: '#13427A',
               color: '#FFFFFF',
+              display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            gap: 7,
               padding: '0.75rem',
               borderRadius: 12,
               fontWeight: 600,
@@ -311,7 +319,7 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ffbf6933',
               transition: 'background 0.15s'
             }}>
-             <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f600bc5ccf565f854.png" alt="icono" width="19" height="19"
+             <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f746eb86a295f4972.png" alt="icono" width="19" height="19"
        style={{ marginRight: 2 }}/>  
  Video como abrir Masterlock
           </a>
@@ -324,6 +332,10 @@ Video como llegar a la Colonia
               minWidth: 180,
               background: '#13427A',
               color: '#FFFFFF',
+              display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            gap: 7,
               padding: '0.75rem',
               borderRadius: 12,
               fontWeight: 600,
@@ -333,7 +345,9 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ff757533',
               transition: 'background 0.15s'
             }}>
-            ▶️ Video tour de tu apartamento
+               <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f600bc505fb65f853.png" alt="icono" width="19" height="19"
+       style={{ marginRight: 2 }}/>  
+ Video tour de tu apartamento
           </a>
         }
 {link_airbnb &&
@@ -343,6 +357,10 @@ Video como llegar a la Colonia
               minWidth: 180,
               background: '#13427A',
               color: '#FFFFFF',
+              display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            gap: 7,
               padding: '0.75rem',
               borderRadius: 12,
               fontWeight: 600,
@@ -352,7 +370,9 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ff757533',
               transition: 'background 0.15s'
             }}>
-            ▶️ Link airbnb de tu apartamento
+               <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f275c418fc25425ee.png" alt="icono" width="19" height="19"
+       style={{ marginRight: 2 }}/>  
+ Link airbnb de tu apartamento
           </a>
         }
       </div>
