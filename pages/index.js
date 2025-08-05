@@ -194,7 +194,7 @@ export default function Home() {
         <a href={ubicacion} target="_blank" rel="noopener noreferrer"
           style={{
             flex: 1,
-            background: '#4d7dfd',
+            background: '#13427A',
             color: '#fff',
             padding: '0.85rem',
             borderRadius: 11,
@@ -211,12 +211,12 @@ export default function Home() {
             transition: 'background 0.15s',
           }}>
           <svg width="19" height="19" fill="#fff" style={{marginRight: 2}} viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 6.36 12.36 6.64 12.65.37.37.97.37 1.34 0C12.64 21.36 19 14.25 19 9c0-3.87-3.13-7-7-7zm0 17.6C10.2 17.18 7 12.89 7 9a5 5 0 0110 0c0 3.89-3.2 8.18-5 10.6zm0-13.1a3.1 3.1 0 100 6.2 3.1 3.1 0 000-6.2zm0 4.2a1.1 1.1 0 110-2.2 1.1 1.1 0 010 2.2z"/></svg>
-          Ver ubicación
+         Ubicación Google maps
         </a>
-        <a href={whatsappHref} target="_blank" rel="noopener noreferrer"
+        <a href={video_dron} target="_blank" rel="noopener noreferrer"
           style={{
             flex: 1,
-            background: '#25d366',
+            background: '#13427A',
             color: '#fff',
             padding: '0.85rem',
             borderRadius: 11,
@@ -233,7 +233,7 @@ export default function Home() {
             transition: 'background 0.15s',
           }}>
           <svg width="21" height="21" viewBox="0 0 32 32" fill="#fff"><path d="M16.004 3C9.384 3 4 8.382 4 15c0 2.489.864 4.864 2.434 6.8L4 29l7.338-2.351A12.914 12.914 0 0 0 16 27c6.617 0 12-5.383 12-12S22.621 3 16.004 3zm0 22.762a10.769 10.769 0 0 1-5.486-1.504l-.395-.232l-4.364 1.395l1.43-4.255l-.254-.384A10.77 10.77 0 1 1 26.77 15c0 5.954-4.812 10.766-10.766 10.766zm5.886-7.879c-.32-.16-1.893-.93-2.187-1.04c-.293-.107-.508-.16-.723.16c-.213.319-.83 1.04-1.018 1.252c-.187.213-.373.24-.693.08c-.32-.16-1.349-.497-2.573-1.586c-.95-.846-1.592-1.892-1.78-2.212c-.187-.32-.02-.49.14-.65c.146-.147.319-.373.48-.56c.16-.187.213-.32.32-.533c.107-.213.053-.399-.027-.56c-.08-.16-.723-1.745-.992-2.394c-.263-.631-.531-.547-.723-.557l-.617-.012c-.187 0-.493.067-.753.32c-.253.252-.995.97-.995 2.364c0 1.393 1.018 2.738 1.16 2.93c.16.213 2.004 3.067 4.86 4.184c.68.293 1.21.466 1.625.596c.682.217 1.302.187 1.793.113c.547-.08 1.893-.773 2.16-1.52c.266-.747.266-1.386.187-1.52c-.08-.133-.292-.213-.613-.373z"/></svg>
-          Ayuda por WhatsApp
+          Video como llegar a la Colonia
         </a>
       </div>
 
