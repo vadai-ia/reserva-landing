@@ -121,7 +121,7 @@ export default function Home() {
         gap: 16,
         justifyContent: 'center',
         width: '100%',
-        maxWidth: 540,
+        maxWidth: 640,
         marginBottom: 16,
         flexWrap: 'wrap'
       }}>
