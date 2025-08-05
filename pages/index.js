@@ -104,7 +104,6 @@ export default function Home() {
         color: '#13427A',
         textAlign: 'center',
         fontWeight: 500,
-        boxShadow: '0 2px 16px #27438220',
         fontSize: 16,
         display: 'flex',
         alignItems: 'center',
@@ -127,7 +126,7 @@ export default function Home() {
         flexWrap: 'wrap'
       }}>
         <div style={{
-          background: '#fff',
+          background: '#F8F8F8',
           color: '#16213e',
           borderRadius: 16,
           padding: '1.3rem 1rem',
@@ -145,7 +144,7 @@ export default function Home() {
           <div style={{ fontSize: 19, fontWeight: 800, marginTop: 6, wordBreak: 'break-word', lineHeight: '1.18' }}>{codigo_reserva || 'N/A'}</div>
         </div>
         <div style={{
-          background: '#fff',
+          background: '#F8F8F8',
           color: '#16213e',
           borderRadius: 16,
           padding: '1.3rem 1rem',
@@ -163,7 +162,7 @@ export default function Home() {
           <div style={{ fontSize: 19, fontWeight: 800, marginTop: 6 }}>{numero_departamento}</div>
         </div>
         <div style={{
-          background: '#fff',
+          background: '#F8F8F8',
           color: '#16213e',
           borderRadius: 16,
           padding: '1.3rem 1rem',
