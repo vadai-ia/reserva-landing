@@ -241,29 +241,26 @@ Video como llegar a la Colonia
 
       {/* INFORMACIÓN IMPORTANTE */}
       <div style={{
-        background: '#182C49',
+        background: '#F8F8F8',
         borderRadius: 18,
         boxShadow: '0 4px 20px #182c4944',
         padding: '1.3rem 1.2rem 1.3rem 1.2rem',
-        color: '#fff',
+        color: '#13427A',
         maxWidth: 640,
         width: '95%',
         marginBottom: 24,
         fontSize: 17,
       }}>
-        <div style={{fontWeight: 800, fontSize: 22, marginBottom: 14, letterSpacing: '-0.5px', textAlign: 'center'}}>
+        <div style={{fontWeight: 700, fontSize: 22, marginBottom: 14, letterSpacing: '-0.5px', textAlign: 'center'}}>
           Información importante
         </div>
         <div style={{display: 'flex', alignItems: 'center', gap: 9, marginBottom: 8}}>
-          <svg width="19" height="19" fill="#4d7dfd" viewBox="0 0 24 24"><path d="M12 17a2 2 0 1 1 0-4a2 2 0 0 1 0 4zm1-14h-2v2h2V3zm6.364 2.636l-1.414 1.414A7.962 7.962 0 0 0 12 6c-1.657 0-3.157.537-4.364 1.414l-1.414-1.414A9.957 9.957 0 0 1 12 4c2.21 0 4.264.713 6.364 2.636zm-12.728 0A9.957 9.957 0 0 0 4 12c0 2.21.713 4.264 2.636 6.364l1.414-1.414A7.962 7.962 0 0 1 6 12c0-1.657.537-3.157 1.414-4.364zm14.728 14.728l-1.414-1.414A7.962 7.962 0 0 1 18 12c0-1.657-.537-3.157-1.414-4.364l1.414-1.414A9.957 9.957 0 0 1 20 12c0 2.21-.713 4.264-2.636 6.364zM12 22a9.957 9.957 0 0 1-6.364-2.636l1.414-1.414A7.962 7.962 0 0 0 12 18c1.657 0 3.157-.537 4.364-1.414l1.414 1.414A9.957 9.957 0 0 1 12 22z"/></svg>
           <span><b>Clave de acceso:</b> {clave_acceso}</span>
         </div>
         <div style={{display: 'flex', alignItems: 'center', gap: 9, marginBottom: 8}}>
-          <svg width="19" height="19" fill="#4d7dfd" viewBox="0 0 24 24"><path d="M12 3C7.03 3 3 7.03 3 12s4.03 9 9 9 9-4.03 9-9-4.03-9-9-9zm1 17.93c-3.95-.49-7-3.85-7-7.93c0-.62.08-1.21.21-1.79l4.65 4.65c.2.2.51.2.71 0l1.23-1.23c.2-.2.2-.51 0-.71l-4.65-4.65C7.8 5.08 9.8 4 12 4c4.97 0 9 4.03 9 9 0 4.97-4.03 9-9 9z"/></svg>
           <span><b>Wi-Fi:</b> {wifi}</span>
         </div>
         <div style={{display: 'flex', alignItems: 'center', gap: 9}}>
-          <svg width="19" height="19" fill="#4d7dfd" viewBox="0 0 24 24"><path d="M12 17a2 2 0 1 1 0-4a2 2 0 0 1 0 4zm0-16C6.48 1 2 5.48 2 11c0 5.52 4.48 10 10 10s10-4.48 10-10c0-5.52-4.48-10-10-10zm0 18c-4.41 0-8-3.59-8-8c0-4.41 3.59-8 8-8c4.41 0 8 3.59 8 8c0 4.41-3.59 8-8 8z"/></svg>
           <span><b>Contraseña Wi-Fi:</b> {contrasena_wifi}</span>
         </div>
       </div>
