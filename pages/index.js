@@ -311,7 +311,9 @@ Video como llegar a la Colonia
               boxShadow: '0 2px 8px #ffbf6933',
               transition: 'background 0.15s'
             }}>
-            🏡 Video como abrir Masterlock
+             <img src="https://storage.googleapis.com/msgsndr/vNFJWo3gKuUCbXCZ0Mx8/media/6890e65f600bc5ccf565f854.png" alt="icono" width="19" height="19"
+       style={{ marginRight: 2 }}/>  
+ Video como abrir Masterlock
           </a>
         }
 
